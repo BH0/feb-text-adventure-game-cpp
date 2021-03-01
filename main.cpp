@@ -12,6 +12,8 @@ links:
 * https://en.cppreference.com/w/cpp/container/vector 
 * https://docs.microsoft.com/en-us/cpp/preprocessor/hash-define-directive-c-cpp?view=msvc-160 
 * https://en.cppreference.com/w/cpp/preprocessor/replace 
+* https://stackoverflow.com/questions/650162/why-the-switch-statement-cannot-be-applied-on-strings 
+* https://stackoverflow.com/questions/16388510/evaluate-a-string-with-a-switch-in-c/16388594
 */ 
 #include <iostream> 
 #include <cstring> 
